@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\pages\\employeeedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\pages\\employeeedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\pages\\employeecreate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\pages\\employeecreate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\pages\\employeesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\pages\\employeesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\pages\\employeelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\pages\\employeelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98C3E6-CD6F-4783-A2AF-AD308C796346}|BlazorFinalEvidence.Shared\\BlazorFinalEvidence.Shared.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.shared\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98C3E6-CD6F-4783-A2AF-AD308C796346}|BlazorFinalEvidence.Shared\\BlazorFinalEvidence.Shared.csproj|solutionrelative:blazorfinalevidence.shared\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98C3E6-CD6F-4783-A2AF-AD308C796346}|BlazorFinalEvidence.Shared\\BlazorFinalEvidence.Shared.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98C3E6-CD6F-4783-A2AF-AD308C796346}|BlazorFinalEvidence.Shared\\BlazorFinalEvidence.Shared.csproj|solutionrelative:blazorfinalevidence.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\blazorfinalevidence.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\blazorfinalevidence.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{473CF713-ACC2-4947-9954-CE0FF6419B07}|BlazorFinalEvidence.Client\\BlazorFinalEvidence.Client.csproj|solutionrelative:blazorfinalevidence.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|d:\\esad-c#\\blazor\\final evidence\\blazorfinalevidence.solution\\blazorfinalevidence.server\\migrations\\20240317133945_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE8B88-3FD9-4DF9-A158-4D4A769287D2}|BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj|solutionrelative:blazorfinalevidence.server\\migrations\\20240317133945_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesForm.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeesForm.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Pages\\EmployeesForm.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeesForm.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Pages\\EmployeesForm.razor",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:51:55.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:37:34.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\Program.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Program.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:34:38.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeList.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeeList.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Pages\\EmployeeList.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeeList.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Pages\\EmployeeList.razor",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:03:37.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeCreate.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeeCreate.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Pages\\EmployeeCreate.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeeCreate.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Pages\\EmployeeCreate.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:11:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeEdit.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeeEdit.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Pages\\EmployeeEdit.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Pages\\EmployeeEdit.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Pages\\EmployeeEdit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:15:14.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\appsettings.json",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\appsettings.json",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T17:33:39.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:29:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Shared\\Project.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Shared\\Project.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Shared\\Project.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Shared\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:17:26.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Shared\\Employee.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Shared\\Employee.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Shared\\Employee.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Shared\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:16:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240317133945_init.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Migrations\\20240317133945_init.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\Migrations\\20240317133945_init.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Migrations\\20240317133945_init.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\Migrations\\20240317133945_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:32:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:47:20.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\_Imports.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:05:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\wwwroot\\index.html",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-12T18:46:55.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-12T18:42:20.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Program.cs",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Program.cs",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:43:16.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:47:01.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlazorFinalEvidence.Server.csproj",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\BlazorFinalEvidence.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T18:27:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\App.razor",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\App.razor",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\App.razor",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:20:33.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorFinalEvidence.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T17:44:54.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorFinalEvidence.Client\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ESAD-C#\\Blazor\\Final Evidence\\BlazorFinalEvidence.Solution\\BlazorFinalEvidence.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorFinalEvidence.Client\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T17:44:30.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

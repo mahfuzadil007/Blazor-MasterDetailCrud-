@@ -1,0 +1,11 @@
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\bin\Debug\net8.0\BlazorFinalEvidence.Shared.deps.json
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\bin\Debug\net8.0\BlazorFinalEvidence.Shared.dll
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\bin\Debug\net8.0\BlazorFinalEvidence.Shared.pdb
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\BlazorFinalEvidence.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\BlazorFinalEvidence.Shared.AssemblyInfoInputs.cache
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\BlazorFinalEvidence.Shared.AssemblyInfo.cs
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\BlazorFinalEvidence.Shared.csproj.CoreCompileInputs.cache
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\BlazorFinalEvidence.Shared.dll
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\refint\BlazorFinalEvidence.Shared.dll
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\BlazorFinalEvidence.Shared.pdb
+D:\ESAD-C#\Blazor\Final Evidence\BlazorFinalEvidence.Solution\BlazorFinalEvidence.Shared\obj\Debug\net8.0\ref\BlazorFinalEvidence.Shared.dll

@@ -1,0 +1,73 @@
+﻿@page "/employees"
+@inject HttpClient http
+@inject IJSRuntime jsRuntime
+@inject NavigationManager manager;
+<h3>Employee List</h3>
+<div class="form-group">
+    <a class="btn btn-success" href="employees/create">Create New Employee</a>
+</div>
+@if (employees == null)
+{
+    <div class="text-center">
+        <div class="spinner-border" role="status">
+            <span class="sr-only">Loading....</span>
+        </div>
+    </div>
+}
+else if (employees.Count == 0)
+{
+    <text>There no record to show</text>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Joining Date</th>
+                <th>Active</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in employees)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td><img height="50" width="50" src="@employee.ImageUrl"></td>
+                    <td>@employee.Name</td>
+                    <td>@employee.JoiningDate</td>
+                    <td>@employee.IsActive</td>
+                    <td>
+                        <a class="btn btn-sm btn-primary" href="employees/edit/@employee.Id">Edit</a> |
+                        <button @onclick="async ()=>await Delete(employee)" class="btn btn-danger btn-sm">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Employee> employees { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        employees = await http.GetFromJsonAsync<List<Employee>>("api/employees");
+    }
+    private async Task Delete(Employee employee)
+    {
+        bool confirmed = await jsRuntime.InvokeAsync<bool>("confirm", "Are you sure to delete the record");
+        if (confirmed)
+        {
+            var response = await http.DeleteAsync($"api/employees/{employee.Id}");
+            if (response.IsSuccessStatusCode)
+            {
+                employees.Remove(employee);
+            }
+
+        }
+    }
+}
+

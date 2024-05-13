@@ -1,0 +1,25 @@
+﻿@page "/employees/create"
+@inject HttpClient http;
+@inject NavigationManager manager;
+<h3>Create New Employee</h3>
+<div class="row">
+    <EmployeesForm employee="employee" OnValidSubmit="OnValidSubmit"></EmployeesForm>
+</div>
+
+@code {
+    Employee employee = new Employee();
+    private async Task OnValidSubmit()
+    {
+        var response = await http.PostAsJsonAsync("api/employees", employee);
+        var body = await response.Content.ReadAsStringAsync();
+        if (response.IsSuccessStatusCode)
+        {
+            Console.WriteLine($"The new employee id is {body}");
+            manager.NavigateTo("employees");
+        }
+        else
+        {
+            Console.WriteLine($"{body}");
+        }
+    }
+}
